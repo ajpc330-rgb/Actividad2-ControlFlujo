@@ -1,0 +1,15 @@
+/workspaces/Actividad2-ControlFlujo/bin/Debug/net10.0/Actividad2-ControlFlujo
+/workspaces/Actividad2-ControlFlujo/bin/Debug/net10.0/Actividad2-ControlFlujo.deps.json
+/workspaces/Actividad2-ControlFlujo/bin/Debug/net10.0/Actividad2-ControlFlujo.runtimeconfig.json
+/workspaces/Actividad2-ControlFlujo/bin/Debug/net10.0/Actividad2-ControlFlujo.dll
+/workspaces/Actividad2-ControlFlujo/bin/Debug/net10.0/Actividad2-ControlFlujo.pdb
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.AssemblyInfoInputs.cache
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.AssemblyInfo.cs
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.csproj.CoreCompileInputs.cache
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.sourcelink.json
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.dll
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/refint/Actividad2-ControlFlujo.dll
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.pdb
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/Actividad2-ControlFlujo.genruntimeconfig.cache
+/workspaces/Actividad2-ControlFlujo/obj/Debug/net10.0/ref/Actividad2-ControlFlujo.dll
